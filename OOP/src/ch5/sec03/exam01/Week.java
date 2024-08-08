@@ -1,4 +1,4 @@
-package sec03.exam01;
+package ch5.sec03.exam01;
 
 public enum Week {
     LUNES,

@@ -1,6 +1,6 @@
-package sec03.exam02;
+package ch5.sec03.exam02;
 
-import sec03.exam01.Week;
+import ch5.sec03.exam01.Week;
 
 import java.util.Calendar;
 
